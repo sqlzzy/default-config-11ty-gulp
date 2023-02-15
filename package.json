@@ -15,7 +15,6 @@
     "url": "git+https://github.com/sqlzzy/default-config-11ty-gulp.git"
   },
   "author": "Osipov Sergey (sqlzzy)",
-  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
     "@babel/core": "^7.20.12",
