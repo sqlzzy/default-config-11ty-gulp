@@ -17,9 +17,9 @@
      - ```npm run build```
 
 ### File structure
-- src/articles/ -- folders with files for pages
-- src/assets/ -- folder with common files for all pages
-- src/include/ -- templates for pages
+- ```src/articles/``` -- folders with files for pages
+- ```src/assets/``` -- folder with common files for all pages
+- ```src/include/``` -- templates for pages
 
 ### Note
   This project is open source.<br/>
