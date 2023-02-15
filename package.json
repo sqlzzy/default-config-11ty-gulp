@@ -1,0 +1,19 @@
+{
+  "name": "default-config-11ty-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqlzzy/default-config-11ty-gulp.git"
+  },
+  "author": "Osipov Sergey (sqlzzy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sqlzzy/default-config-11ty-gulp/issues"
+  },
+  "homepage": "https://github.com/sqlzzy/default-config-11ty-gulp#readme"
+}
