@@ -22,7 +22,6 @@
 - ```src/include/``` -- templates for pages
 
 ### Note
-  This project is open source.<br/>
   Feedback and suggestions write to the [issue](https://github.com/sqlzzy/default-config-11ty-gulp/issues).
 
 ### Author:
