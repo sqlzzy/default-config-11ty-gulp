@@ -26,7 +26,7 @@ gulp.task('styles-article:sass-to-css', () => {
 });
 
 gulp.task('styles-assets:sass-to-css', () => {
-    return gulp.src('./src/assets/main-style.scss')
+    return gulp.src('./src/assets/styles/main-style.scss')
         .pipe(sass({
             errorLogToConsole: true,
             outputStyle: 'compressed'

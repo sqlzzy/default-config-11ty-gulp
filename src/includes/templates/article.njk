@@ -1,0 +1,22 @@
+---
+title: Article page
+---
+
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/assets/styles/main-style.css">
+    <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon-main.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-main-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-main-32.png">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    {% include 'page/header.njk' %}
+    {{ content | safe }}
+    {% include 'page/footer.njk' %}
+  </body>
+</html>
